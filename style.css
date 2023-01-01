@@ -46,7 +46,7 @@ h3 {
 .container {
     margin-left: auto;
     margin-right: auto;
-    background-image: url(/images/bg.jpg);
+    background-image: url(bg.jpg);
     padding-bottom: 20rem;
     opacity: 0.1;
     
